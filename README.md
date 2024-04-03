@@ -43,8 +43,3 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 ## Code of Conduct
 
 Please read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for details on our code of conduct and the process for reporting issues.
-
-## Acknowledgments
-
-- This project was initiated to streamline the shipping cost calculation process, enhancing transparency and efficiency in supply chain management.
-- A special thanks to all the contributors who have helped shape this project.
