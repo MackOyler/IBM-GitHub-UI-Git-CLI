@@ -16,7 +16,7 @@ To get started with the Shipping Calculator Web Application, please follow the i
 ### Installation
 
 1. Clone the repository to your local machine:
-git clone [https://github.com/<your-username>/shipping-calculator.git]
+git clone [[https://github.com/<your-username>/shipping-calculator.git](https://github.com/MackOyler/IBM-GitHub-UI-Git-CLI)]
 
 2. Navigate to the cloned repository directory:
 cd shipping-calculator
