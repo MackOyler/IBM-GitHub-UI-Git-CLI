@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# Script to calculate simple interest
+
+# Prompt user for input
+echo "Enter the principal amount:"
+read P
+echo "Enter the rate of interest per annum (%):"
+read R
+echo "Enter the time (years):"
+read T
+
+# Calculate simple interest
+SI=$(echo "$P * $R * $T / 100" | bc)
+
+# Output the result
+echo "The simple interest is: $SI"
