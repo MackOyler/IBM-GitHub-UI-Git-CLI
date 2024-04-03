@@ -34,7 +34,7 @@ Follow the prompts to enter the principal amount, rate of interest per annum, an
 
 We welcome contributions to the Shipping Calculator Web Application project! If you have suggestions to improve this project, please fork the repository and create a pull request. You can also open an issue with the tag "enhancement".
 
-Please read (CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests to us.
 
 ## License
 
