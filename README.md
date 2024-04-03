@@ -43,3 +43,8 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 ## Code of Conduct
 
 Please read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for details on our code of conduct and the process for reporting issues.
+
+## TESTING
+This has been added via the Command Line (CLI / Terminal). 
+This shows that I created the bug-fix-typo branch, edited the README (this file) to include this stuff... 
+Fin.
